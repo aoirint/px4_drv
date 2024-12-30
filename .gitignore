@@ -20,3 +20,5 @@ modules.order
 
 *.obj
 *.exe
+
+/fwtool/fwtool
